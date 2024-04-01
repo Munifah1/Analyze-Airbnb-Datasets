@@ -4,7 +4,8 @@ Airbnb data for 250,000+ listings in 10 major cities, including information abou
 ### Use Jubter Notebook
 
 # Sources
-[kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data)-Download Datasets
+[kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data)-Download Datasets.
+
 [stackoverflow](https://stackoverflow.com/questions/tagged/jupyter-notebook)-Right You Error if you are facing problems during coding its helpful
 
 # Conclusion
